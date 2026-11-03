@@ -8,10 +8,10 @@ A collection of C++ programs developed as part of the Object-Oriented Programmin
 
 | Field        | Details               |
 | ------------ | --------------------- |
-| **Name**     | Hanamanth managuli  |
-| **Roll No.** | 403                  |
-| **Division** | D                     |
-| **SRN**      | 01FE23BEC163          |
+| **Name**     | Naveen R Bhandi       |
+| **Roll No.** | 361                   |
+| **Division** | C                     |
+| **SRN**      | 01FE23BEC155          |
 | **Semester** | VII                   |
 
 ---
